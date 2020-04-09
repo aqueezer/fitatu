@@ -1,5 +1,5 @@
 ## Setup
-1. clone 
+1. clone https://github.com/aqueezer/fitatu.git
 2. install `npm i`
 
 ## Run
